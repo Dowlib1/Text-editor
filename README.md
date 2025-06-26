@@ -15,11 +15,11 @@ Open your terminal and run:
 sudo apt update
 sudo apt install vim
 ```
-![Screenshot](images/vimins.png)
+![Screenshot](image/vimins.png)
 
 ##verify installation
 
-![Screenshot](images/verifyvim.png)
+![Screenshot](image/verifyvim.png)
 ### 2. Open or Create a File
 
 To open or create a file:
@@ -27,22 +27,22 @@ To open or create a file:
 vim filename.txt
 ```
 
-![Screenshot](images/vim.png)
+![Screenshot](image/vim.png)
 ### 3. Enter Insert Mode
 
-![Screenshot](images/insertvim.png)
+![Screenshot](image/insertvim.png)
 Press `i` to switch to insert mode and start editing.
 
-![Screenshot](images/esc.png)
+![Screenshot](image/esc.png)
 ### 4. Save Your File
 
-![Screenshot](images/wq.png)
+![Screenshot](image/wq.png)
 - Press `Esc` to leave insert mode.
 - Type `:w` and press `Enter` to save changes.
 
 ### 5. Exit vim
 
-![Screenshot](images/justquit.png)
+![Screenshot](image/justquit.png)
 - Type `:q` and press `Enter` to quit.
 - To save and exit at once, type `:wq` and press `Enter`.
 
@@ -50,7 +50,7 @@ Press `i` to switch to insert mode and start editing.
 
 ## nano Editor
 
-![Screenshot](images/nano.png)
+![Screenshot](image/nano.png)
 ### 1. Install nano
 
 Open your terminal and run:
@@ -59,7 +59,7 @@ sudo apt update
 sudo apt install nano
 ```
 
-![Screenshot](images/nanof2.png)
+![Screenshot](image/nanof2.png)
 ### 2. Open or Create a File
 
 To open or create a file:
@@ -67,12 +67,12 @@ To open or create a file:
 nano filename.txt
 ```
 
-![Screenshot](images/nanedit.png)
+![Screenshot](image/nanedit.png)
 ### 3. Edit the File
 
 Start typing to edit your file.
 
-![Screenshot](images/exitnano.png)
+![Screenshot](image/exitnano.png)
 ### 4. Save Your File
 
 - Press `Ctrl + O` (hold `Ctrl` and press `O`) to write out (save) the file.
@@ -84,7 +84,7 @@ Start typing to edit your file.
 
 ---
 
-![Screenshot](images/esc.png)
+![Screenshot](image/esc.png)
 ## Screenshots
 
 Refer to the included screenshots for visual guidance on these steps.
